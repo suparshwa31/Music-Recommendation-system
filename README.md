@@ -25,8 +25,11 @@ its a Simple web application which recommends songs which are similar to the one
 6. streamlit run app.py/ python3 streamlit run app.py to run server
 
 
-Created a music recommendation system V1.0
+
 
 Future work: 
 1. adding functionality to play the recommended songs.
 2. recommend songs on liked songs or recently played songs
+
+
+this is a V1.0 of this applicaiton.
